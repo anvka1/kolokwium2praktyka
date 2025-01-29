@@ -1,2 +1,3 @@
 s33094
 dodaje dowolna tresc zad 4b
+modyfikuje zad 4f
